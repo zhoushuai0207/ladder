@@ -21,11 +21,11 @@
 
 描述：分免费版和付费版，手机可以使用，免费有流量限制。
 
-## 3. : 自用付费##
+## 3. : 付费
 
-推荐指数：**四颗星**
+推荐指数：**五颗星**
 
-描述：我现在用的付费版，支持V2Ray和SS ， 需要邀请码加微信群 ，备注【注册码】 使用建议用ShadowsocksR 的负载均衡的方式。
+描述：我现在用的付费版，支持V2Ray和SS ， 需要邀请码加微信群 ，备注【注册码】 windows建议使用ShadowsocksR 的负载均衡的方式。
 ![image](https://github.com/zhoushuai0207/ladder/blob/master/images/wxq.png)
 
 
