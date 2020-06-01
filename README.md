@@ -25,7 +25,7 @@
 
 推荐指数：**五颗星**
 
-描述：我现在用的付费版，支持V2Ray和SS ， 需要邀请码加微信群 ，备注【注册码】 windows建议使用ShadowsocksR 的负载均衡的方式。
+描述：我现在用的付费版，支持V2Ray和SS ， 需要邀请码加微信群 ，备注【注册码】 windows建议clash for windows。
 ![image](https://github.com/zhoushuai0207/ladder/blob/master/images/wxq.png)
 
 
