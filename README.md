@@ -29,25 +29,6 @@
 ![image](https://github.com/zhoushuai0207/ladder/blob/master/images/wxq.png)
 
 
-## 4. vyprvpn: ##
-
-
-推荐指数：**四颗星**
-
-地址：https://www.goldenfrog.biz/zh
-
-描述：付费，国外VPN提供商，手机使用方便。
-
-
-## 5. 其他: ##
-
-
-推荐指数：**五颗星**
-
-地址：https://github.com/shadowsocks/shadowsocks-windows
-
-描述：**自己搭建VPN服务**。使用租国外VPS， AWS通过shadowsocks 或者 openvpn搭建平台,尤其推荐shadowsocks，其中 Shadowsocks，GFW难以干扰，速度快，稳定性高，自己的数据自己掌控。
-
 
 #### 免费VPN和付费VPN对比 ####
 
